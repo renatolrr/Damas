@@ -3,7 +3,10 @@
 ##Historia.  
     
 ##Reglas del juego.  
-  
+
+Ojo: ver 
+  Fédération Mondiale du Jeu de Dames. 
+
 1. Las damas se juegan en un tablero de 100 cuadrados, de los cuales 50 son negros y 50 son blancos.  
 2. El tablero se debe orientar de forma que la casilla 46, la inferior a la izquierda debe se ser blanca.  
 3. Se juega con 20 peones blancos y veinte negros, situados sobre los cuadrados blancos, y el número 1 están ocupado por los negros.  
