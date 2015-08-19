@@ -1,2 +1,27 @@
- 
 [Event "?"] 
+[Site "?"] 
+[Date "2015.08.19"] 
+[Round "?"] 
+[White "Me"] 
+[Black "Flits"] 
+[Result "*"] 
+[GameType "20"] 
+[Setup "1"] 
+[FEN "W:W20,33,40,42:B10,23,30,38."] 
+[PlyCount "5"] 
+
+1. 40-35 38x47 2. 35x24 47x29 3. 24x33 * 
+
+[Event "?"] 
+[Site "?"] 
+[Date "2015.08.19"] 
+[Round "?"] 
+[White "Me"] 
+[Black "Flits"] 
+[Result "*"] 
+[GameType "20"] 
+[Setup "1"] 
+[FEN "W:W16,28,33,41:B7,8,12,36."] 
+[PlyCount "5"] 
+
+1. 28-23 36x47 2. 16-11 47x18 3. 11x22 *  
