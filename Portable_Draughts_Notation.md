@@ -79,4 +79,7 @@ Probando Damweb applet:
 '''  
   
 Lector de ficheros .pdn y juego para Android:  
-https://play.google.com/store/apps/details?id=com.borsoftware.FlitsDraughts&hl=es&utm_source=opapk.com&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dficheros+pdn+damas&pcampaignid=APPU_1_fg7WVeXMOonxaLTejUA
+https://play.google.com/store/apps/details?id=com.borsoftware.FlitsDraughts&hl=es&utm_source=opapk.com&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dficheros+pdn+damas&pcampaignid=APPU_1_fg7WVeXMOonxaLTejUA  
+  
+Generador de imágenes:    
+http://home.deds.nl/~svg_experimenten/draughtboard/index.html  
